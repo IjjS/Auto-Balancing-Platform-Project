@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FYP", "FYP\FYP.vcxproj", "{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "App", "..\..\..\Documents\Arduino\FYP\App\App.vcxproj", "{A52DF540-A8F1-4041-B871-1EC7288FFE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|ARM.ActiveCfg = Debug|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|ARM.Build.0 = Debug|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|ARM64.ActiveCfg = Debug|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|ARM64.Build.0 = Debug|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|x64.ActiveCfg = Debug|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|x64.Build.0 = Debug|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|x86.ActiveCfg = Debug|Win32
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Debug|x86.Build.0 = Debug|Win32
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|ARM.ActiveCfg = Release|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|ARM.Build.0 = Release|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|ARM64.ActiveCfg = Release|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|ARM64.Build.0 = Release|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|x64.ActiveCfg = Release|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|x64.Build.0 = Release|x64
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|x86.ActiveCfg = Release|Win32
+		{B60131F7-9EEF-4807-BEBE-ACBFCB6A2892}.Release|x86.Build.0 = Release|Win32
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|ARM.Build.0 = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|ARM.Deploy.0 = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|ARM64.Build.0 = Debug|ARM64
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|x64.ActiveCfg = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|x64.Build.0 = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|x64.Deploy.0 = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|x86.ActiveCfg = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|x86.Build.0 = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Debug|x86.Deploy.0 = Debug|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|ARM.ActiveCfg = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|ARM.Build.0 = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|ARM.Deploy.0 = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|ARM64.ActiveCfg = Release|ARM64
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|ARM64.Build.0 = Release|ARM64
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|ARM64.Deploy.0 = Release|ARM64
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|x64.ActiveCfg = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|x64.Build.0 = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|x64.Deploy.0 = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|x86.ActiveCfg = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|x86.Build.0 = Release|ARM
+		{A52DF540-A8F1-4041-B871-1EC7288FFE51}.Release|x86.Deploy.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758C90B0-4C01-4897-A4B8-E3868F533200}
+	EndGlobalSection
+EndGlobal
